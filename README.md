@@ -234,6 +234,7 @@ ManualARNI
 │   ├── calculadora-market-readiness.md
 │   ├── herramienta-price-benchmark.md
 │   ├── scoring-importadores-distribuidores.md
-│   └── herramienta-seguimiento-b2b.md
+│   ├── herramienta-seguimiento-b2b.md
+│   └── herramienta-ficha-producto.md
 └── README.md
 ```
