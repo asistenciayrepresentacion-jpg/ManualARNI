@@ -223,6 +223,25 @@ Contenido:
 - Criterios de decisión.
 - Riesgos y próximos pasos. 
 
+### 10. Gobernanza IA
+
+Carpeta:
+
+[10-gobernanza-ia](10-gobernanza-ia/)
+
+Archivos principales:
+
+[Reglas de Uso de IA en ARNI Consulting](10-gobernanza-ia/reglas-uso-ia-arni.md)
+
+Contenido:
+
+- Reglas de uso de IA.
+- Revisión humana.
+- Límites de agentes.
+- Protección de información.
+- Control de errores.
+- Riesgos comunes.
+  
 ## Estructura del repositorio
 
 ```text
