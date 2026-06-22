@@ -85,6 +85,8 @@ Archivo principal:
 [Playbook Importer Scouting](04-playbooks/playbook-importer-scouting.md)
 
 [Playbook Soft Landing](04-playbooks/playbook-soft-landing.md)
+
+[Playbook B2B Follow-up](04-playbooks/playbook-b2b-follow-up.md)
 Contenido:
 
 - Evaluación de preparación de mercado.
