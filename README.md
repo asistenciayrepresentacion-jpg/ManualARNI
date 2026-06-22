@@ -233,7 +233,6 @@ ManualARNI
 │   └── plantillas-base.md
 ├── 07-prompts
 │   └── prompts-base.md
-└── README.md
 ├── 08-herramientas-calculadoras
 │   ├── calculadora-calificacion-oportunidades.md
 │   ├── calculadora-landed-cost.md
