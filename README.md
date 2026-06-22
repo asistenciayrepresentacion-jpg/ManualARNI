@@ -292,7 +292,8 @@ ManualARNI
 │   ├── matriz-permisos-agentes-ia.md
 │   ├── bitacora-errores-ia.md
 │   ├── protocolo-revision-humana.md
-│   └── inventario-agentes-ia.md
+│   ├── inventario-agentes-ia.md
+│   └── procedimiento-alta-agente-ia.md
 └── README.md
 
 ```
