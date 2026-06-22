@@ -233,6 +233,8 @@ Archivos principales:
 
 [Reglas de Uso de IA en ARNI Consulting](10-gobernanza-ia/reglas-uso-ia-arni.md)
 
+[Matriz de Permisos para Agentes IA](10-gobernanza-ia/matriz-permisos-agentes-ia.md)
+
 Contenido:
 
 - Reglas de uso de IA.
@@ -282,7 +284,8 @@ ManualARNI
 │   └── caso-market-readiness-alimentos-canada.md
 ├── 10-gobernanza-ia
 │   ├── reglas-uso-ia-arni.md
-│   └── matriz-permisos-agentes-ia.md
+│   ├── matriz-permisos-agentes-ia.md
+│   └── bitacora-errores-ia.md
 └── README.md
 
 ```
