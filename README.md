@@ -94,6 +94,8 @@ Archivo principal:
 
 [Playbook Propuesta Comercial](04-playbooks/playbook-propuesta-comercial.md)
 
+[Playbook Diagnóstico Inicial](04-playbooks/playbook-diagnostico-inicial.md)
+
 Contenido:
 
 - Evaluación de preparación de mercado.
