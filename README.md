@@ -235,6 +235,10 @@ Archivos principales:
 
 [Matriz de Permisos para Agentes IA](10-gobernanza-ia/matriz-permisos-agentes-ia.md)
 
+[Bitácora de Errores e Incidentes IA](10-gobernanza-ia/bitacora-errores-ia.md)
+
+[Protocolo de Revisión Humana para IA](10-gobernanza-ia/protocolo-revision-humana.md)
+
 Contenido:
 
 - Reglas de uso de IA.
@@ -242,8 +246,9 @@ Contenido:
 - Límites de agentes.
 - Protección de información.
 - Control de errores.
-- Riesgos comunes.
-  
+- Riesgos comunes.- Control de errores.
+- Protocolo de revisión humana.
+ 
 ## Estructura del repositorio
 
 ```text
