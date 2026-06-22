@@ -19,6 +19,7 @@ Archivos principales:
 [Introducción al Manual Operativo ARNI](01-manual-general/introduccion.md)
 
 [Reglas Operativas ARNI Consulting](01-manual-general/reglas-operativas.md)
+
 Contenido:
 
 - Propósito del manual.
