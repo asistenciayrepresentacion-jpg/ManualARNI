@@ -196,13 +196,23 @@ Contenido:
 ```text
 ManualARNI
 ├── 01-manual-general
-│   └── introduccion.md
+│   ├── introduccion.md
+│   ├── reglas-operativas.md
+│   └── roadmap-manual.md
 ├── 02-servicios-arni
 │   └── servicios.md
 ├── 03-procesos-comerciales
-│   └── proceso-comercial.md
+│   ├── proceso-comercial.md
+│   ├── criterios-calificacion-oportunidades.md
+│   └── matriz-abc-prospectos.md
 ├── 04-playbooks
-│   └── playbook-market-readiness.md
+│   ├── playbook-market-readiness.md
+│   ├── playbook-importer-scouting.md
+│   ├── playbook-soft-landing.md
+│   ├── playbook-b2b-follow-up.md
+│   ├── playbook-automatizacion-ia.md
+│   ├── playbook-propuesta-comercial.md
+│   └── playbook-diagnostico-inicial.md
 ├── 05-agentes-ia
 │   └── agente-comercial-arni.md
 ├── 06-plantillas
