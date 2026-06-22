@@ -241,5 +241,7 @@ ManualARNI
 │   ├── scoring-importadores-distribuidores.md
 │   ├── herramienta-seguimiento-b2b.md
 │   └── herramienta-ficha-producto.md
+├── 09-casos-y-ejemplos
+│   └── caso-market-readiness-alimentos-canada.md
 └── README.md
 ```
