@@ -20,6 +20,8 @@ Archivos principales:
 
 [Reglas Operativas ARNI Consulting](01-manual-general/reglas-operativas.md)
 
+[Roadmap del Manual ARNI Consulting](01-manual-general/roadmap-manual.md)
+
 Contenido:
 
 - Propósito del manual.
