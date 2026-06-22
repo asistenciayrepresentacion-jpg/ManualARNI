@@ -205,6 +205,24 @@ Contenido:
 - Seguimiento B2B.
 - Ficha de producto.
 
+### 9. Casos y ejemplos
+
+Carpeta:
+
+[09-casos-y-ejemplos](09-casos-y-ejemplos/)
+
+Archivos principales:
+
+[Caso Market Readiness para Alimentos en Canadá](09-casos-y-ejemplos/caso-market-readiness-alimentos-canada.md)
+
+Contenido:
+
+- Ejemplos prácticos de aplicación.
+- Casos de uso por servicio.
+- Aplicación de herramientas.
+- Criterios de decisión.
+- Riesgos y próximos pasos. 
+
 ## Estructura del repositorio
 
 ```text
