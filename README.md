@@ -173,6 +173,23 @@ Contenido:
 - Preparación de propuesta inicial.
 
 ---
+### 8. Herramientas y calculadoras
+
+Carpeta:
+
+[08-herramientas-calculadoras](08-herramientas-calculadoras/)
+
+Archivos principales:
+
+[Calculadora de Calificación de Oportunidades](08-herramientas-calculadoras/calculadora-calificacion-oportunidades.md)
+
+Contenido:
+
+- Evaluación de prospectos.
+- Puntuación A/B/C.
+- Priorización comercial.
+- Reglas de uso.
+- Formato de captura.
 
 ## Estructura del repositorio
 
