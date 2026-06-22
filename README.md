@@ -281,7 +281,8 @@ ManualARNI
 ├── 09-casos-y-ejemplos
 │   └── caso-market-readiness-alimentos-canada.md
 ├── 10-gobernanza-ia
-│   └── reglas-uso-ia-arni.md
+│   ├── reglas-uso-ia-arni.md
+│   └── matriz-permisos-agentes-ia.md
 └── README.md
 
 ```
