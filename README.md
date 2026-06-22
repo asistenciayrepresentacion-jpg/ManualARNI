@@ -92,6 +92,8 @@ Archivo principal:
 
 [Playbook Automatización e IA Aplicada](04-playbooks/playbook-automatizacion-ia.md)
 
+[Playbook Propuesta Comercial](04-playbooks/playbook-propuesta-comercial.md)
+
 Contenido:
 
 - Evaluación de preparación de mercado.
