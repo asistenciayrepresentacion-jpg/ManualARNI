@@ -187,6 +187,10 @@ Archivos principales:
 
 [Calculadora de Landed Cost Preliminar](08-herramientas-calculadoras/calculadora-landed-cost.md)
 
+[Herramienta de Price Benchmark](08-herramientas-calculadoras/herramienta-price-benchmark.md)
+
+[Scoring de Importadores y Distribuidores](08-herramientas-calculadoras/scoring-importadores-distribuidores.md)
+
 Contenido:
 
 - Evaluación de prospectos.
