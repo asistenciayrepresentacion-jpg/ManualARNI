@@ -185,6 +185,8 @@ Archivos principales:
 
 [Calculadora de Market Readiness](08-herramientas-calculadoras/calculadora-market-readiness.md)
 
+[Calculadora de Landed Cost Preliminar](08-herramientas-calculadoras/calculadora-landed-cost.md)
+
 Contenido:
 
 - Evaluación de prospectos.
