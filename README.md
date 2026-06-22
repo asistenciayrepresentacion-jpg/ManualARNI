@@ -228,10 +228,11 @@ ManualARNI
 ├── 07-prompts
 │   └── prompts-base.md
 └── README.md
-├── 08-herramientas-calculadoras
+├├── 08-herramientas-calculadoras
 │   ├── calculadora-calificacion-oportunidades.md
-│   ├── calculadora-market-readiness.md
 │   ├── calculadora-landed-cost.md
-│   └── herramienta-price-benchmark.md
+│   ├── calculadora-market-readiness.md
+│   ├── herramienta-price-benchmark.md
+│   └── scoring-importadores-distribuidores.md
 └── README.md
 ```
