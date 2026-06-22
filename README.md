@@ -224,4 +224,9 @@ ManualARNI
 ├── 07-prompts
 │   └── prompts-base.md
 └── README.md
+├── 08-herramientas-calculadoras
+│   ├── calculadora-calificacion-oportunidades.md
+│   ├── calculadora-market-readiness.md
+│   └── calculadora-landed-cost.md
+└── README.md
 ```
