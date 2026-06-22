@@ -90,7 +90,7 @@ Archivo principal:
 
 [Playbook B2B Follow-up](04-playbooks/playbook-b2b-follow-up.md)
 
-[Playbook Automatización e IA Aplicada](04-playbooks/playbook-automatización-ia.md)
+[Playbook Automatización e IA Aplicada](04-playbooks/playbook-automatizacion-ia.md)
 
 Contenido:
 
