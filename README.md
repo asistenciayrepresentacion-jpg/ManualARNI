@@ -285,7 +285,8 @@ ManualARNI
 ├── 10-gobernanza-ia
 │   ├── reglas-uso-ia-arni.md
 │   ├── matriz-permisos-agentes-ia.md
-│   └── bitacora-errores-ia.md
+│   ├── bitacora-errores-ia.md
+│   └── protocolo-revision-humana.md
 └── README.md
 
 ```
