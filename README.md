@@ -261,5 +261,8 @@ ManualARNI
 │   └── herramienta-ficha-producto.md
 ├── 09-casos-y-ejemplos
 │   └── caso-market-readiness-alimentos-canada.md
+├── 10-gobernanza-ia
+│   └── reglas-uso-ia-arni.md
 └── README.md
+
 ```
