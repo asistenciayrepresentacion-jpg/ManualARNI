@@ -291,7 +291,8 @@ ManualARNI
 │   ├── reglas-uso-ia-arni.md
 │   ├── matriz-permisos-agentes-ia.md
 │   ├── bitacora-errores-ia.md
-│   └── protocolo-revision-humana.md
+│   ├── protocolo-revision-humana.md
+│   └── inventario-agentes-ia.md
 └── README.md
 
 ```
