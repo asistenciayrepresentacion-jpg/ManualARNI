@@ -183,6 +183,8 @@ Archivos principales:
 
 [Calculadora de Calificación de Oportunidades](08-herramientas-calculadoras/calculadora-calificacion-oportunidades.md)
 
+[Calculadora de Market Readiness](08-herramientas-calculadoras/calculadora-market-readiness.md)
+
 Contenido:
 
 - Evaluación de prospectos.
