@@ -83,6 +83,8 @@ Archivo principal:
 [Playbook Market Readiness](04-playbooks/playbook-market-readiness.md)
 
 [Playbook Importer Scouting](04-playbooks/playbook-importer-scouting.md)
+
+[Playbook Soft Landing](04-playbooks/playbook-soft-landing.md)
 Contenido:
 
 - Evaluación de preparación de mercado.
