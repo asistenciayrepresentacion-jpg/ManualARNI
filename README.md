@@ -194,6 +194,7 @@ Archivos principales:
 [Herramienta de Seguimiento B2B](08-herramientas-calculadoras/herramienta-seguimiento-b2b.md)
 
 [Herramienta de Ficha de Producto](08-herramientas-calculadoras/herramienta-ficha-producto.md)
+
 Contenido:
 
 - Evaluación de prospectos.
