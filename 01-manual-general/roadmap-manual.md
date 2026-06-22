@@ -27,11 +27,14 @@ Mantener una visión clara de las secciones creadas, pendientes y prioritarias d
 
 ### Prioridad alta
 
-- Playbook de Automatización e IA aplicada.
 - Playbook de Propuesta Comercial.
 - Playbook de Diagnóstico Inicial.
 - Criterios de calificación de oportunidades.
 - Matriz A/B/C de prospectos.
+- 
+### Completado recientemente
+
+- Playbook de automatización e IA aplicada.
 
 ### Prioridad media
 
