@@ -342,6 +342,7 @@ Datos:
 | Scoring           | [Scoring Importadores y Distribuidores](../08-herramientas-calculadoras/scoring-importadores-distribuidores.md) | Apoya la calificación de prospectos.        |
 | Seguimiento       | [Herramienta de Seguimiento B2B](../08-herramientas-calculadoras/herramienta-seguimiento-b2b.md)                | Registra contactos, respuestas y acciones.  |
 | Ficha de producto | [Herramienta de Ficha de Producto](../08-herramientas-calculadoras/herramienta-ficha-producto.md)               | Ordena la información inicial del producto. |
+| Prompts | [Prompts Importer Scouting](../07-prompts/prompts-importer-scouting.md) | Contiene prompts operativos para ficha de producto, mercado objetivo, clasificación, contacto, seguimiento y reporte. |
 
 ---
 
