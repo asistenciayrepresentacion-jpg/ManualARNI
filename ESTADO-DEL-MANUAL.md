@@ -120,13 +120,83 @@ Razón: después de evaluar readiness y/o identificar posibles contrapartes, ARN
 ---
 ---
 
+---
+
 ## Bloques operativos documentados
 
-| Bloque            | Servicio | Proceso | Agente IA | Prompts | Estado           |
-| ----------------- | -------- | ------- | --------- | ------- | ---------------- |
-| Importer Scouting | Sí       | Sí      | Sí        | Sí      | Completo inicial |
-| Market Readiness  | Sí       | Sí      | Sí        | Sí      | Completo inicial |
-| Pilot Validation  | Sí       | Sí      | Sí        | Sí      | Completo inicial |
+| Bloque               | Servicio | Proceso | Agente IA | Prompts | Estado           |
+| -------------------- | -------- | ------- | --------- | ------- | ---------------- |
+| Importer Scouting    | Sí       | Sí      | Sí        | Sí      | Completo inicial |
+| Market Readiness     | Sí       | Sí      | Sí        | Sí      | Completo inicial |
+| Pilot Validation     | Sí       | Sí      | Sí        | Sí      | Completo inicial |
+| Business Matchmaking | Sí       | Sí      | Sí        | Sí      | Completo inicial |
+
+---
+
+## Avance reciente
+
+### Importer Scouting
+
+Se documentó el primer bloque operativo completo del Manual ARNI.
+
+Archivos creados o actualizados:
+
+* [Servicio Importer Scouting](02-servicios-arni/importer-scouting.md)
+* [Proceso Operativo Importer Scouting](03-procesos-comerciales/proceso-importer-scouting.md)
+* [Agente IA Importer Scouting](05-agentes-ia/agente-importer-scouting.md)
+* [Prompts Importer Scouting](07-prompts/prompts-importer-scouting.md)
+
+Este bloque permite explicar qué es el servicio, cómo se ejecuta, cómo puede apoyarlo la IA y qué prompts operativos puede usar el equipo.
+
+### Market Readiness
+
+Se documentó el segundo bloque operativo completo del Manual ARNI.
+
+Archivos creados o actualizados:
+
+* [Servicio Market Readiness](02-servicios-arni/market-readiness.md)
+* [Proceso Operativo Market Readiness](03-procesos-comerciales/proceso-market-readiness.md)
+* [Agente IA Market Readiness](05-agentes-ia/agente-market-readiness.md)
+* [Prompts Market Readiness](07-prompts/prompts-market-readiness.md)
+
+Este bloque permite diagnosticar si una empresa, producto o solución está preparada para avanzar hacia prospección comercial, búsqueda de importadores, validación piloto o agenda B2B.
+
+### Pilot Validation
+
+Se documentó el tercer bloque operativo completo del Manual ARNI.
+
+Archivos creados o actualizados:
+
+* [Servicio Pilot Validation](02-servicios-arni/pilot-validation.md)
+* [Proceso Operativo Pilot Validation](03-procesos-comerciales/proceso-pilot-validation.md)
+* [Agente IA Pilot Validation](05-agentes-ia/agente-pilot-validation.md)
+* [Prompts Pilot Validation](07-prompts/prompts-pilot-validation.md)
+
+Este bloque permite validar señales reales de interés del mercado mediante pilotos controlados, reuniones, muestras, feedback de compradores, pruebas regionales o validación de canal antes de escalar una estrategia comercial.
+
+### Business Matchmaking
+
+Se documentó el cuarto bloque operativo completo del Manual ARNI.
+
+Archivos creados o actualizados:
+
+* [Servicio Business Matchmaking](02-servicios-arni/business-matchmaking.md)
+* [Proceso Operativo Business Matchmaking](03-procesos-comerciales/proceso-business-matchmaking.md)
+* [Agente IA Business Matchmaking](05-agentes-ia/agente-business-matchmaking.md)
+* [Prompts Business Matchmaking](07-prompts/prompts-business-matchmaking.md)
+
+Este bloque permite preparar, coordinar, ejecutar, documentar y dar seguimiento a reuniones B2B con compradores, importadores, distribuidores, socios, cámaras, instituciones o aliados internacionales.
+
+---
+
+## Próximo bloque recomendado
+
+El siguiente bloque sugerido es:
+
+**Trade Mission Support**
+
+Razón: ARNI ya documentó diagnóstico, búsqueda de prospectos, validación piloto y reuniones B2B. El siguiente paso lógico es documentar cómo estructurar una misión comercial completa: preparación de participantes, agenda, matchmaking, materiales, coordinación logística, seguimiento, reportes y conversión de reuniones en oportunidades.
+
 
 ---
 
