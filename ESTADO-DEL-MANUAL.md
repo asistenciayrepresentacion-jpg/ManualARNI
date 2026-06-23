@@ -48,7 +48,7 @@ Su función es servir como manual interno para ordenar servicios, procesos, play
 | AI Supply Chain Scouting |      Alta | 02-servicios-arni |
 
 ---
-
+ 
 ## Regla de trabajo
 
 Antes de crear nuevos documentos, cada archivo debe responder:
