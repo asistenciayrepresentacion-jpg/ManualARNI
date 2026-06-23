@@ -263,3 +263,32 @@ Los principales riesgos son:
 ARNI puede apoyar en la identificación, análisis, priorización y preparación comercial de prospectos.
 
 ARNI no debe prometer cierre de ventas, aceptación del producto, aprobación regulatoria, cumplimiento aduanal o representación legal sin una validación especializada.
+
+---
+
+## Documentos relacionados
+
+Este servicio se conecta con los siguientes archivos del Manual ARNI:
+
+| Tipo de documento     | Archivo                                                                                                         | Uso                                                                              |
+| --------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Proceso operativo     | [Proceso Importer Scouting](../03-procesos-comerciales/proceso-importer-scouting.md)                            | Define cómo ejecutar el servicio paso a paso.                                    |
+| Scoring de prospectos | [Scoring Importadores y Distribuidores](../08-herramientas-calculadoras/scoring-importadores-distribuidores.md) | Permite calificar y priorizar posibles contrapartes.                             |
+| Seguimiento B2B       | [Herramienta de Seguimiento B2B](../08-herramientas-calculadoras/herramienta-seguimiento-b2b.md)                | Sirve para registrar contactos, respuestas y próximas acciones.                  |
+| Ficha de producto     | [Herramienta de Ficha de Producto](../08-herramientas-calculadoras/herramienta-ficha-producto.md)               | Ayuda a ordenar la información mínima antes de buscar importadores.              |
+| Prompts               | [Prompts Importer Scouting](../07-prompts/prompts-importer-scouting.md)                                         | Contiene instrucciones para usar IA en la búsqueda, clasificación y seguimiento. |
+| Agente IA             | [Agente Importer Scouting](../05-agentes-ia/agente-importer-scouting.md)                                        | Define el rol del agente IA para apoyar el servicio.                             |
+
+---
+
+## Estado del archivo
+
+| Campo                         | Estado    |
+| ----------------------------- | --------- |
+| Servicio documentado          | Sí        |
+| Proceso operativo relacionado | Sí        |
+| Herramientas relacionadas     | Parcial   |
+| Prompts relacionados          | Pendiente |
+| Agente IA relacionado         | Pendiente |
+| Revisión humana requerida     | Sí        |
+
