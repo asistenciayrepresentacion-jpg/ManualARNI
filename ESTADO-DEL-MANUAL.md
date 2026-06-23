@@ -63,11 +63,14 @@ Antes de crear nuevos documentos, cada archivo debe responder:
 
 ---
 
+---
+
 ## Bloques operativos documentados
 
-| Bloque | Servicio | Proceso | Agente IA | Prompts | Estado |
-|---|---|---|---|---|---|
-| Importer Scouting | Sí | Sí | Sí | Sí | Completo inicial |
+| Bloque            | Servicio | Proceso | Agente IA | Prompts | Estado           |
+| ----------------- | -------- | ------- | --------- | ------- | ---------------- |
+| Importer Scouting | Sí       | Sí      | Sí        | Sí      | Completo inicial |
+| Market Readiness  | Sí       | Sí      | Sí        | Sí      | Completo inicial |
 
 ---
 
@@ -79,12 +82,25 @@ Se documentó el primer bloque operativo completo del Manual ARNI.
 
 Archivos creados o actualizados:
 
-- [Servicio Importer Scouting](02-servicios-arni/importer-scouting.md)
-- [Proceso Operativo Importer Scouting](03-procesos-comerciales/proceso-importer-scouting.md)
-- [Agente IA Importer Scouting](05-agentes-ia/agente-importer-scouting.md)
-- [Prompts Importer Scouting](07-prompts/prompts-importer-scouting.md)
+* [Servicio Importer Scouting](02-servicios-arni/importer-scouting.md)
+* [Proceso Operativo Importer Scouting](03-procesos-comerciales/proceso-importer-scouting.md)
+* [Agente IA Importer Scouting](05-agentes-ia/agente-importer-scouting.md)
+* [Prompts Importer Scouting](07-prompts/prompts-importer-scouting.md)
 
 Este bloque permite explicar qué es el servicio, cómo se ejecuta, cómo puede apoyarlo la IA y qué prompts operativos puede usar el equipo.
+
+### Market Readiness
+
+Se documentó el segundo bloque operativo completo del Manual ARNI.
+
+Archivos creados o actualizados:
+
+* [Servicio Market Readiness](02-servicios-arni/market-readiness.md)
+* [Proceso Operativo Market Readiness](03-procesos-comerciales/proceso-market-readiness.md)
+* [Agente IA Market Readiness](05-agentes-ia/agente-market-readiness.md)
+* [Prompts Market Readiness](07-prompts/prompts-market-readiness.md)
+
+Este bloque permite diagnosticar si una empresa, producto o solución está preparada para avanzar hacia prospección comercial, búsqueda de importadores, validación piloto o agenda B2B.
 
 ---
 
@@ -92,9 +108,10 @@ Este bloque permite explicar qué es el servicio, cómo se ejecuta, cómo puede 
 
 El siguiente bloque sugerido es:
 
-**Market Readiness**
+**Pilot Validation**
 
-Razón: antes de buscar importadores, muchos clientes necesitan validar si su producto, precio, documentación, capacidad y propuesta comercial están listos para entrar a un mercado objetivo.
+Razón: después de evaluar readiness y/o identificar posibles contrapartes, ARNI necesita documentar cómo validar interés real del mercado mediante pruebas controladas, reuniones, muestras, pilotos regionales, feedback de compradores y señales de rotación o aceptación comercial.
+
 
 ---
 
