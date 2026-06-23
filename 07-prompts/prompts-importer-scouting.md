@@ -348,3 +348,4 @@ Información del proyecto:
 ## 15. Regla final
 
 Los prompts son herramientas de apoyo. La responsabilidad final sobre análisis, contacto, validación, seguimiento y entrega al cliente corresponde a ARNI Consulting.
+
