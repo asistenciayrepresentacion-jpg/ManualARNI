@@ -112,24 +112,18 @@ El siguiente bloque sugerido es:
 
 Razón: después de evaluar readiness y/o identificar posibles contrapartes, ARNI necesita documentar cómo validar interés real del mercado mediante pruebas controladas, reuniones, muestras, pilotos regionales, feedback de compradores y señales de rotación o aceptación comercial.
 
-
+---
 ---
 
 ## Bloques operativos documentados
 
----
----
-
----
-
-## Bloques operativos documentados
-
-| Bloque               | Servicio | Proceso | Agente IA | Prompts | Estado           |
-| -------------------- | -------- | ------- | --------- | ------- | ---------------- |
-| Importer Scouting    | Sí       | Sí      | Sí        | Sí      | Completo inicial |
-| Market Readiness     | Sí       | Sí      | Sí        | Sí      | Completo inicial |
-| Pilot Validation     | Sí       | Sí      | Sí        | Sí      | Completo inicial |
-| Business Matchmaking | Sí       | Sí      | Sí        | Sí      | Completo inicial |
+| Bloque                | Servicio | Proceso | Agente IA | Prompts | Estado           |
+| --------------------- | -------- | ------- | --------- | ------- | ---------------- |
+| Importer Scouting     | Sí       | Sí      | Sí        | Sí      | Completo inicial |
+| Market Readiness      | Sí       | Sí      | Sí        | Sí      | Completo inicial |
+| Pilot Validation      | Sí       | Sí      | Sí        | Sí      | Completo inicial |
+| Business Matchmaking  | Sí       | Sí      | Sí        | Sí      | Completo inicial |
+| Trade Mission Support | Sí       | Sí      | Sí        | Sí      | Completo inicial |
 
 ---
 
@@ -187,59 +181,18 @@ Archivos creados o actualizados:
 
 Este bloque permite preparar, coordinar, ejecutar, documentar y dar seguimiento a reuniones B2B con compradores, importadores, distribuidores, socios, cámaras, instituciones o aliados internacionales.
 
----
+### Trade Mission Support
 
-## Próximo bloque recomendado
-
-El siguiente bloque sugerido es:
-
-**Trade Mission Support**
-
-Razón: ARNI ya documentó diagnóstico, búsqueda de prospectos, validación piloto y reuniones B2B. El siguiente paso lógico es documentar cómo estructurar una misión comercial completa: preparación de participantes, agenda, matchmaking, materiales, coordinación logística, seguimiento, reportes y conversión de reuniones en oportunidades.
-
-
----
-
-## Avance reciente
-
-### Importer Scouting
-
-Se documentó el primer bloque operativo completo del Manual ARNI.
+Se documentó el quinto bloque operativo completo del Manual ARNI.
 
 Archivos creados o actualizados:
 
-* [Servicio Importer Scouting](02-servicios-arni/importer-scouting.md)
-* [Proceso Operativo Importer Scouting](03-procesos-comerciales/proceso-importer-scouting.md)
-* [Agente IA Importer Scouting](05-agentes-ia/agente-importer-scouting.md)
-* [Prompts Importer Scouting](07-prompts/prompts-importer-scouting.md)
+* [Servicio Trade Mission Support](02-servicios-arni/trade-mission-support.md)
+* [Proceso Operativo Trade Mission Support](03-procesos-comerciales/proceso-trade-mission-support.md)
+* [Agente IA Trade Mission Support](05-agentes-ia/agente-trade-mission-support.md)
+* [Prompts Trade Mission Support](07-prompts/prompts-trade-mission-support.md)
 
-Este bloque permite explicar qué es el servicio, cómo se ejecuta, cómo puede apoyarlo la IA y qué prompts operativos puede usar el equipo.
-
-### Market Readiness
-
-Se documentó el segundo bloque operativo completo del Manual ARNI.
-
-Archivos creados o actualizados:
-
-* [Servicio Market Readiness](02-servicios-arni/market-readiness.md)
-* [Proceso Operativo Market Readiness](03-procesos-comerciales/proceso-market-readiness.md)
-* [Agente IA Market Readiness](05-agentes-ia/agente-market-readiness.md)
-* [Prompts Market Readiness](07-prompts/prompts-market-readiness.md)
-
-Este bloque permite diagnosticar si una empresa, producto o solución está preparada para avanzar hacia prospección comercial, búsqueda de importadores, validación piloto o agenda B2B.
-
-### Pilot Validation
-
-Se documentó el tercer bloque operativo completo del Manual ARNI.
-
-Archivos creados o actualizados:
-
-* [Servicio Pilot Validation](02-servicios-arni/pilot-validation.md)
-* [Proceso Operativo Pilot Validation](03-procesos-comerciales/proceso-pilot-validation.md)
-* [Agente IA Pilot Validation](05-agentes-ia/agente-pilot-validation.md)
-* [Prompts Pilot Validation](07-prompts/prompts-pilot-validation.md)
-
-Este bloque permite validar señales reales de interés del mercado mediante pilotos controlados, reuniones, muestras, feedback de compradores, pruebas regionales o validación de canal antes de escalar una estrategia comercial.
+Este bloque permite preparar, coordinar, ejecutar, documentar y dar seguimiento a misiones comerciales con participantes, contrapartes, agendas B2B, briefings, minutas, seguimiento y reporte ejecutivo.
 
 ---
 
@@ -247,8 +200,9 @@ Este bloque permite validar señales reales de interés del mercado mediante pil
 
 El siguiente bloque sugerido es:
 
-**Business Matchmaking**
+**Soft Landing**
 
-Razón: después de diagnosticar readiness, identificar prospectos y validar interés inicial, ARNI necesita documentar cómo estructurar, preparar y ejecutar reuniones B2B entre empresas, compradores, importadores, distribuidores, socios o instituciones.
+Razón: después de documentar diagnóstico, scouting, validación, matchmaking y misiones comerciales, ARNI necesita documentar cómo apoyar a empresas que quieren explorar, preparar o iniciar presencia en un nuevo mercado.
 
-Este bloque debe ayudar a convertir contactos y prospectos en reuniones útiles, con objetivos claros, preparación previa, minuta, seguimiento y criterios para convertir una reunión en oportunidad comercial.
+Este bloque debe cubrir preparación de entrada, actores locales, aliados, reuniones institucionales, validación operativa, necesidades legales o regulatorias, socios estratégicos, ubicación, red local y plan de aterrizaje gradual.
+
