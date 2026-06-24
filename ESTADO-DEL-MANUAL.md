@@ -124,7 +124,7 @@ Razón: después de evaluar readiness y/o identificar posibles contrapartes, ARN
 | Pilot Validation      | Sí       | Sí      | Sí        | Sí      | Completo inicial |
 | Business Matchmaking  | Sí       | Sí      | Sí        | Sí      | Completo inicial |
 | Trade Mission Support | Sí       | Sí      | Sí        | Sí      | Completo inicial |
-
+| Soft Landing | Sí | Sí | Sí | Sí | Completo inicial |
 ---
 
 ## Avance reciente
